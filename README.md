@@ -35,7 +35,7 @@ Join our anime-loving developer community to discuss code, anime, and everything
 
 ## GitHub Stats 📊
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&hide=issues&count_private=true&theme=nord)
+![RadXena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadXena&show_icons=true&hide=issues&count_private=true&theme=nord)
 
 ## Contributions are Welcome 🤝
 
