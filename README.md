@@ -2,7 +2,7 @@
   
 # 👩‍💻 RadXena's GitHub Wonderland 🌌
 
-Welcome to my magical world of code and creativity! ✨
+<img src="https://media.discordapp.net/attachments/1135107390476406875/1135110656895496232/radxena.jpg" alt="RadXena" width="1024" height="1024">
 
 ## About Me 🌸
 
