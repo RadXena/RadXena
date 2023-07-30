@@ -31,11 +31,11 @@ Let's connect and embark on a coding adventure together! 🌠 Feel free to reach
 
 ## Join My Discord Server 🎉
 
-Join our anime-loving developer community to discuss code, anime, and everything magical! 🌟 [Discord Invite Link](https://discord.gg/yourdiscordinvite)
+Join our anime-loving developer community to discuss code, anime, and everything magical! 🌟 [Discord Invite Link](https://discord.gg/discord)
 
 ## GitHub Stats 📊
 
-![RadXena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadXena&show_icons=true&hide=issues&count_private=true&theme=nord)
+![RadXena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadXena&show_icons=true&hide=issues&count_private=true&theme=github_dark)
 
 ## Contributions are Welcome 🤝
 
