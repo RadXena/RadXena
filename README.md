@@ -16,9 +16,9 @@
 
 Here are some of my spellbinding creations:
 
-1. 🌐 [Project Name 1](https://github.com/username/project1): A web application that showcases my mastery in Python and web development.
+🌐 [Project Name 1](https://github.com/username/project1): A web application that showcases my mastery in Python and web development.
 
-2. 🎮 [Project Name 2](https://github.com/username/project2): An anime-themed game that brings joy and excitement to users.
+🎮 [Project Name 2](https://github.com/username/project2): An anime-themed game that brings joy and excitement to users.
 
 ## Get in Touch 💌
 
