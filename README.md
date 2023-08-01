@@ -14,11 +14,7 @@
 
 ## Projects 🚀
 
-Here are some of my spellbinding creations:
-
-🌐 [Project Name 1](https://github.com/username/project1): A web application that showcases my mastery in Python and web development.
-
-🎮 [Project Name 2](https://github.com/username/project2): An anime-themed game that brings joy and excitement to users.
+🌐 [Visit Website](https://radxena.repl.co): You can check the status of my creations or repositories in my website.
 
 ## Get in Touch 💌
 
@@ -27,7 +23,7 @@ Let's connect and embark on a coding adventure together! 🌠 Feel free to reach
 🐦 [Twitter](https://twitter.com/yourtwitterhandle)
 🌐 [Portfolio](https://yourportfolio.com)
 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-📧 Email: your.email@example.com
+📧 Email: sofiatmc123@outlook.com
 
 ## Join My Discord Server 🎉
 
